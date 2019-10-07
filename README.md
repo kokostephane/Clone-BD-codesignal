@@ -117,7 +117,7 @@ Nb : l’interface du challenge est identique à l arcade, à la différence qu�
 
 -Code challenge entreprise (titre, nombre-souscripteur, récompense, chrono, difficulté)
 
-  -------------------------------------------------------INTERVIEW PRACTICE ---------------------------------------------
+  ----------------------------------------------------INTERVIEW PRACTICE ---------------------------------------------
   
 -Affichage des catégories des plans d’étude (Crash course, fundamentals, extra crédit, freestyle)
 
@@ -128,6 +128,7 @@ Nb : l’interface du challenge est identique à l arcade, à la différence qu�
 -Contenu du test(titre, entreprise, difficulté ,chrono, nombre inscrit, nombre commentaire, récompense)
 
 -------------------------------------------------------TOURNOIR ---------------------------------------------
+
 -les objets d’onglets(regular, marathons,private)
 
 -Boutons create+
@@ -149,10 +150,12 @@ Nb : l’interface du challenge est identique à l arcade, à la différence qu�
 -Code friends
 
 -My tasks
+
 -Badges(description, percentage, logo, plusieurs type de badge)
 
 
 -------------------------------------------------------FORUMS---------------------------------------------
+
 -Les categories(10)
 
 -Postes(réactions, commentaires, category, nom, photo, titre, date, +new-poste)
